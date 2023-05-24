@@ -15,3 +15,9 @@ To handle responsibilities in a decoupled manner and facilitate easy modificatio
 For frontend deployment, we are using #VERCEL. 
 <br>
 For backend deployment, we have opted for #RAILWAY.
+<br><br>
+Developers:<br>
+Luis Alomia: https://github.com/LuisAlomia <br>
+Manuel Nácer: https://github.com/nacermanuel
+
+
